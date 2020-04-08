@@ -1,0 +1,2 @@
+# ETHS
+EthereumSuper ETHS
